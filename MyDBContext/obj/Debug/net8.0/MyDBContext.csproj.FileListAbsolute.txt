@@ -1,0 +1,11 @@
+C:\Users\v-sirrasneha\source\repos\MyBlazorWebApp\MyDBContext\bin\Debug\net8.0\MyDBContext.deps.json
+C:\Users\v-sirrasneha\source\repos\MyBlazorWebApp\MyDBContext\bin\Debug\net8.0\MyDBContext.dll
+C:\Users\v-sirrasneha\source\repos\MyBlazorWebApp\MyDBContext\bin\Debug\net8.0\MyDBContext.pdb
+C:\Users\v-sirrasneha\source\repos\MyBlazorWebApp\MyDBContext\obj\Debug\net8.0\MyDBContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-sirrasneha\source\repos\MyBlazorWebApp\MyDBContext\obj\Debug\net8.0\MyDBContext.AssemblyInfoInputs.cache
+C:\Users\v-sirrasneha\source\repos\MyBlazorWebApp\MyDBContext\obj\Debug\net8.0\MyDBContext.AssemblyInfo.cs
+C:\Users\v-sirrasneha\source\repos\MyBlazorWebApp\MyDBContext\obj\Debug\net8.0\MyDBContext.csproj.CoreCompileInputs.cache
+C:\Users\v-sirrasneha\source\repos\MyBlazorWebApp\MyDBContext\obj\Debug\net8.0\MyDBContext.dll
+C:\Users\v-sirrasneha\source\repos\MyBlazorWebApp\MyDBContext\obj\Debug\net8.0\refint\MyDBContext.dll
+C:\Users\v-sirrasneha\source\repos\MyBlazorWebApp\MyDBContext\obj\Debug\net8.0\MyDBContext.pdb
+C:\Users\v-sirrasneha\source\repos\MyBlazorWebApp\MyDBContext\obj\Debug\net8.0\ref\MyDBContext.dll
